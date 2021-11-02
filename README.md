@@ -1,5 +1,15 @@
-### Hi there 👋
+## Hello , this is Rahul 👋
 
+I am Rahul Kumar , an exuberant tech enthusiast , and a **self taught programmer** . I like challenges and overcoming them. Love to contribute . **Layer5** community memeber .
+
+### Technologies I Like :
+
+- Front-End Development with **HTML** , **CSS** , **JAVASCRIPT** , **BOOTsTRAP** , **REACT**
+- Back-End Development with **NODEJS** , **EXPRESS** , **MONGODB** , **GOLANG**
+- DevOps : **DOCKER** , **KUBERNETES** 
+
+- 🌱  I’m currently learning **GOLANG** , **DOCKER** , **KUBERNETES** , **SYSTEM DESIGN**
+- 😄 Pronouns: he/him
 <!--
 **Rahulkumar2002/Rahulkumar2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
