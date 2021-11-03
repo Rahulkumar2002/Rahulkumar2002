@@ -22,7 +22,7 @@ I am Rahul Kumar , an exuberant tech enthusiast , and a **self taught programmer
 
 ---
 
-###  Recent Activity :
+###  Recent Activity
 
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#14602](https://github.com/webpack/webpack/pull/14602) in [webpack/webpack](https://github.com/webpack/webpack)
