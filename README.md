@@ -13,6 +13,13 @@ I am Rahul Kumar , an exuberant tech enthusiast , and a **self taught programmer
 - 🌱  I’m currently learning **GOLANG** , **DOCKER** , **KUBERNETES** , **SYSTEM DESIGN**
 - 😄 Pronouns: he/him
 ---
+### Connect With Me
+
+<a href="https://twitter.com/Rahulkumr2002" target = "_blank">![Twitter Follow](https://img.shields.io/twitter/follow/Rahulkumr2002?label=Twitter&logo=Twitter&logoColor=%23000000)</a> <img src = "https://img.shields.io/badge/Mail-rahuljhakumar1600%40gmail.com-%23EA4335?logo=Gmail&style=social" > <a href="https://www.linkedin.com/in/rahul-kumar-jha-070027215/" target="_blank"><img src ="https://img.shields.io/badge/LinkedIn-Rahul%20Kumar%20Jha-%230A66C2?logo=LinkedIn&style=social"></a>
+
+
+---
+
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)   ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)   ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)  ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 
 
