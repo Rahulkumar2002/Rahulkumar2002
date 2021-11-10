@@ -1,4 +1,4 @@
-![banner](../Rahulkumar2002/.github/images/Hi%20,%20Rahul%20Kumar%20here%20(1).png)
+![banner](./.github/images/Hi%20,%20Rahul%20Kumar%20here%20(1).png)
 
 
 ## Hello , this is Rahul 👋
