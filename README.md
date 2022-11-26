@@ -10,7 +10,7 @@ I am Rahul Kumar , an exuberant tech enthusiast , and a **self taught programmer
 ### Technologies I Like :
 
 - Front-End Development with **HTML** , **CSS** , **JAVASCRIPT** , **BOOTSTRAP** , **REACT**
-- Back-End Development with **NODEJS** , **EXPRESS** , **MONGODB** , **GOLANG** , **Microservices**
+- Back-End Development with **NODEJS** , **EXPRESS** , **MONGODB** , **GOLANG** , **MICROSERVICES**
 - DevOps : **DOCKER** , **KUBERNETES** 
 - 😄 Pronouns: he/him
 ---
