@@ -3,7 +3,7 @@
 
 ## Hello , this is Rahul 👋
 
-I am Rahul Kumar , an exuberant tech enthusiast , and a **self taught programmer** . I like challenges and overcoming them. Love to contribute .
+I am Rahul Kumar , an exuberant tech enthusiast , and a **self taught programmer** . I like challenges and overcoming them. Love to contribute in Open-Source.
 
 ---
 
