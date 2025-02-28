@@ -3,7 +3,7 @@
 
 ## Hello , this is Rahul 👋
 
-👋 Hi there! I'm Rahul Kumnar, a passionate developer with hands-on experience in MERN stack and Golang development. With a successful track record of two impactful internships, I've honed my skills in MERN stack with Redux and Golang, delivering top-notch solutions and pushing boundaries in web development.
+👋 Hi there! I'm Rahul Kumar, a passionate developer with hands-on experience in MERN stack and Golang development. With a successful track record of two impactful internships, I've honed my skills in MERN stack with Redux and Golang, delivering top-notch solutions and pushing boundaries in web development.
 
 🚀 Proficient in Data Structures and Algorithms, I possess a keen understanding that allows me to craft efficient and scalable solutions. My skill set spans across MongoDB, ReactJS, NodeJS, ExpressJS, Redux, Golang, GRPC, PostgreSQL, Git, Java, GitHub, HTML, CSS, and JavaScript.
 
